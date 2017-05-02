@@ -1,0 +1,21 @@
+- title: Home
+  href: index.html
+
+- title: Blog
+  href: single.html
+
+- title: Bootstrap
+  href: bootstrap.html
+  # megamenu: example.html
+
+- title: Dropdown
+  href: "#"
+  submenu:
+    - title: Home
+      href: index.html
+
+    - title: Blog
+      href: single.html
+
+    - title: Dropdown Menu
+      href: "#"

@@ -1,0 +1,7 @@
+# Do not change this section settings
+source: ./src
+destination: ./dist
+
+# Build settings
+markdown: kramdown
+exclude: []
